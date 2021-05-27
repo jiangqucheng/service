@@ -1,4 +1,4 @@
-module github.com/jdevelop/service
+module github.com/jiangqucheng/service
 
 go 1.12
 
